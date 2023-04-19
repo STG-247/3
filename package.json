@@ -1,0 +1,19 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "seneca": "^3.30.0",
+    "seneca-basic": "^1.0.0",
+    "seneca-entity": "^22.0.0",
+    "seneca-jsonfile-store": "^1.1.0"
+  }
+}
